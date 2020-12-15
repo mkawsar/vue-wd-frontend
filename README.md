@@ -16,11 +16,8 @@ npm run dev
 
 # build for production with minification
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
 ### Support
 
-If you have any questions or confusion please email me at **kawsar.diu888@gmail.com** or open an issue in the repository.
+If you have any questions or confusion please email me at **mkawsarahmed@outlook.com** or open an issue in the repository.
