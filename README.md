@@ -1,10 +1,13 @@
-# frontend
+## Frontend
 
 > A Vue.js project
 
-## Build Setup
+### Build Setup
 
 ``` bash
+# environment file setup
+sr/.env.js file setup backend api base url. ex: 'http://127.0.0.1:8000/'
+
 # install dependencies
 npm install
 
@@ -18,4 +21,6 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### Support
+
+If you have any questions or confusion please email me at **kawsar.diu888@gmail.com** or open an issue in the repository.
